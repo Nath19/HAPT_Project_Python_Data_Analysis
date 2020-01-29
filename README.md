@@ -1,6 +1,6 @@
 # HAPT_Project_Python_Data_Analysis
 
-===================================================================================================
+
 Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set
 Version 2.1
 ===================================================================================================
